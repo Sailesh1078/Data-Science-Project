@@ -1,0 +1,102 @@
+,Student ID,Name,Gender,Web Browsing Habit 1,Web Browsing Time 1 (Mins),Web Browsing Habit 2,Web Browsing Time 2 (Mins),Web Browsing Habit 3,Web Browsing Time 3 (Mins),Social Media Platform 1,Social Media Time 1 (Mins),Social Media Platform 2,Social Media Time 2 (Mins),Mobile Screen Time (Hours),Period,Touchscreen Gestures,Notification Preference,Total,Age Group,Web Browsing Habit 1 Class,Web Browsing Habit 2 Class,Web Browsing Habit 3 Class,User Category,Priority,Attention Span Score,Composite Score
+0,ME21B1025,SIDDHARTH DEVARAJAN V,Male,Coursera,60,Facebook,45,YouTube,90,Twitter,30,Instagram,60,2,Morning,Swipe,Push,100,22-24,0,1,1,Recreational,3,1.2,2.4599999999999995
+1,CS21B1034,S. NARASIMHA,Male,YouTube,120,Coding Websites,60,Facebook,45,Instagram,90,Twitter,30,3,Evening,Tap,Email,50,18-22,1,0,1,Recreational,4,3.5999999999999996,3.88
+2,CS21B1046,D. ANVESH,Male,Coding Websites,60,LinkedIn,45,Facebook,90,Twitter,30,Reddit,60,3,Afternoon,Swipe,In-App,50,18-22,0,0,1,Education,0,3.5999999999999996,1.0799999999999998
+3,EC21B1078,TENALI ANIL KUMAR,Male,Coursera,45,Facebook,60,Quora,90,Twitter,30,LinkedIn,60,2,Evening,Swipe,Push,150,18-22,0,1,0,Education,0,0.8,0.24
+4,CS21B1072,VAIBHAV MAHANT,Male,Coursera,45,Coding Websites,60,Facebook,90,Reddit,30,Twitter,60,2,Morning,Swipe,Social Media,200,18-22,0,0,1,Education,0,0.6,0.18
+5,EC21B1074,PRANKUR SHUKLA,Male,Quora,45,Facebook,60,Coursera,90,Instagram,30,TikTok,60,4,Afternoon,Tap,Push,100,18-22,0,1,0,Education,0,2.4,0.72
+6,EC21B1002,RAVVA VINAY KUMAR,Male,YouTube,90,Facebook,60,Twitter,45,Instagram,30,Reddit,60,3,Morning,Swipe,Push,150,18-22,1,1,1,Recreational,4,1.2,3.1599999999999997
+7,ME21B1066,HARSH SINGH,Male,YouTube,60,Netflix,45,Amazon Prime Video,30,Twitter,90,Instagram,60,3,Evening,Tap,In-App,100,22-24,1,1,1,Recreational,4,1.7999999999999998,3.34
+8,ME21B1005,M S SHAKTHI MUKESH,Male,YouTube,60,Coding Websites,45,Facebook,90,Instagram,30,Twitter,60,4,Evening,Swipe,Email,100,22-24,1,0,1,Recreational,5,2.4,4.22
+9,EC21B1040,VYAS TIRTH KIRANKUMAR,Male,Facebook,60,YouTube,45,Coding Websites,90,Twitter,30,Instagram,60,2,Afternoon,Swipe,In-App,50,18-22,1,1,0,Recreational,3,2.4,2.8199999999999994
+10,EC21B1088,RUSHABH RAJUKUMAR DARJI,Male,Coding Websites,90,Quora,60,Coursera,45,Facebook,30,Reddit,60,3,Evening,Swipe,Push,50,18-22,0,0,0,Education,0,3.5999999999999996,1.0799999999999998
+11,CS21B2034,SHASHANK KUMAR,Male,YouTube,60,Facebook,45,Twitter,90,Twitter,30,Instagram,60,2,Morning,Tap,Push,50,18-22,1,1,1,Recreational,3,2.4,2.8199999999999994
+12,ME21B1022,DIWAKAR CHAURASIYA,Male,LinkedIn,60,Coding Websites,45,Quora,30,Instagram,90,Facebook,60,3,Afternoon,Swipe,Push,50,22-24,0,0,0,Education,0,3.5999999999999996,1.0799999999999998
+13,ME21B1035,MOHAMMED AAMIR HUSSAIN,Male,YouTube,90,Coding Websites,45,LinkedIn,30,Facebook,60,Twitter,60,4,Evening,Swipe,Push,150,22-24,1,0,0,Recreational,5,1.6,3.98
+14,CS21B1071,NISSIE PRASHAMSA. B,Female,YouTube,45,Facebook,60,Twitter,90,Instagram,30,Snapchat,60,3,Afternoon,Swipe,In-App,50,18-22,1,1,1,Recreational,4,3.5999999999999996,3.88
+15,CS21B1055,MANJAY KUMAR,Male,YouTube,90,Facebook,45,Instagram,60,Twitter,30,LinkedIn,60,2,Morning,Tap,Push,50,18-22,1,1,1,Recreational,3,2.4,2.8199999999999994
+16,CS21B1002,KARAN KISHORE,Male,Facebook,60,YouTube,45,Instagram,90,Twitter,30,Reddit,60,3,Evening,Swipe,Email,50,18-22,1,1,1,Recreational,4,3.5999999999999996,3.88
+17,ME21B1069,BHARANIDHARAN M,Male,YouTube,60,Netflix,45,Amazon Prime Video,30,Instagram,90,Twitter,60,4,Afternoon,Swipe,Push,150,22-24,1,1,1,Recreational,5,1.6,3.98
+18,EC21B1103,DARSHAN VIGNESH B G,Male,Coding Websites,60,YouTube,45,Facebook,90,LinkedIn,30,Instagram,60,2,Morning,Tap,Push,50,18-22,0,1,1,Recreational,3,2.4,2.8199999999999994
+19,CS21B1034,S. NARASIMHA,Male,YouTube,120,Coding Websites,60,Facebook,45,Instagram,90,Twitter,30,3,Evening,Tap,Email,150,18-22,1,0,1,Recreational,4,1.2,3.1599999999999997
+20,ME21B2031,B PRANEETH,Male,YouTube,60,Coding Websites,45,Facebook,90,Twitter,30,LinkedIn,60,2,Afternoon,Swipe,Push,100,22-24,1,0,1,Recreational,3,1.2,2.4599999999999995
+21,CS21B1018,VINAY KUMAR,Male,YouTube,60,Facebook,45,LinkedIn,30,Instagram,90,Twitter,60,3,Evening,Swipe,In-App,150,18-22,1,1,0,Recreational,4,1.2,3.1599999999999997
+22,CS21B2017,BANAVATH LOKESHWAR,Male,YouTube,45,Facebook,60,Instagram,90,Twitter,30,Twitter,60,2,Afternoon,Swipe,Push,150,22-24,1,1,1,Recreational,3,0.8,2.34
+23,EC21B1113,SUHAS NANDIBHATLA,Male,Facebook,60,YouTube,45,Instagram,90,Twitter,30,LinkedIn,60,4,Evening,Tap,Push,50,18-22,1,1,1,Recreational,5,4.8,4.9399999999999995
+24,EC21B1101,ABHISHEK RAJ,Male,YouTube,60,Facebook,45,Twitter,90,Instagram,30,WhatsApp,60,3,Morning,Swipe,Push,150,18-22,1,1,1,Recreational,4,1.2,3.1599999999999997
+25,EC21B1061,SIDHARTH,Male,Facebook,60,YouTube,45,Coding Websites,30,Twitter,90,Instagram,60,2,Afternoon,Swipe,Push,150,18-22,1,1,0,Recreational,3,0.8,2.34
+26,CS20B1052,K. SRISHANTH,Male,YouTube,60,Facebook,45,LinkedIn,90,Instagram,30,WhatsApp,60,3,Evening,Swipe,In-App,150,22-24,1,1,0,Recreational,4,1.2,3.1599999999999997
+27,ME21B1075,RAGHVENDRA MISHRA,Male,YouTube,60,Facebook,45,LinkedIn,30,Instagram,90,Twitter,60,2,Morning,Tap,Push,150,22-24,1,1,0,Recreational,3,0.8,2.34
+28,EC21B1077,AMAN KUMAR,Male,YouTube,90,Facebook,45,Twitter,30,Instagram,60,LinkedIn,60,3,Afternoon,Swipe,Push,150,18-22,1,1,1,Recreational,4,1.2,3.1599999999999997
+29,CS21B1085,B. HEMANTH,Male,YouTube,45,Facebook,60,LinkedIn,90,Instagram,30,WhatsApp,60,2,Evening,Tap,Push,150,18-22,1,1,0,Recreational,3,0.8,2.34
+30,EC21B1018,TADEPALLI PRANEETH,Male,YouTube,60,Facebook,45,Instagram,30,LinkedIn,90,Twitter,60,3,Morning,Swipe,In-App,150,18-22,1,1,1,Recreational,4,1.2,3.1599999999999997
+31,EC21B1012,ALLAMRAJU LEELA MANOJ,Male,YouTube,90,Facebook,45,LinkedIn,30,Instagram,60,Twitter,60,2,Afternoon,Swipe,Push,150,22-24,1,1,0,Recreational,3,0.8,2.34
+32,ME21B2011,HARSHAL PATIL,Male,YouTube,60,Facebook,45,Instagram,30,LinkedIn,90,WhatsApp,60,4,Evening,Swipe,Push,150,22-24,1,1,1,Recreational,5,1.6,3.98
+33,CS21B2019,DEVARAKONDA SRI LALITHA RAMA SIDDESH,Female,YouTube,45,Facebook,60,Instagram,90,Twitter,30,Twitter,60,3,Afternoon,Swipe,In-App,150,22-24,1,1,1,Recreational,4,1.2,3.1599999999999997
+34,CS21B2036,KAMBHAMSETTY HARSHA VARDHAN,Male,YouTube,90,Facebook,45,Twitter,30,Instagram,60,LinkedIn,60,2,Evening,Tap,Push,50,22-24,1,1,1,Recreational,3,2.4,2.8199999999999994
+35,CS21B2004,RAJAT HONNURMATH,Male,YouTube,60,Facebook,45,LinkedIn,90,Instagram,30,Twitter,60,3,Morning,Swipe,Push,50,18-22,1,1,0,Recreational,4,3.5999999999999996,3.88
+36,CS21B2008,VASANTHA CHANAKYA,Male,YouTube,60,Facebook,45,LinkedIn,30,Instagram,90,Twitter,60,4,Afternoon,Swipe,Push,50,22-24,1,1,0,Recreational,5,4.8,4.9399999999999995
+37,CS21B1068,BASAB GHOSH,Male,YouTube,45,Facebook,60,Instagram,90,Twitter,30,LinkedIn,60,2,Evening,Tap,Push,50,18-22,1,1,1,Recreational,3,2.4,2.8199999999999994
+38,CS21B2042,SURYA RAGHAV B,Male,YouTube,90,Facebook,45,Twitter,30,Instagram,60,LinkedIn,60,3,Morning,Swipe,In-App,50,22-24,1,1,1,Recreational,4,3.5999999999999996,3.88
+39,EC21B1053,GAVVALA PAVAN,Male,YouTube,60,Facebook,45,Instagram,90,Twitter,30,Instagram,60,4,Afternoon,Swipe,Push,50,18-22,1,1,1,Recreational,5,4.8,4.9399999999999995
+40,EC21B1119,GUNJAN SHARMA,Female,YouTube,60,Facebook,45,Twitter,30,SnapChat,90,LinkedIn,60,3,Evening,Swipe,Push,100,18-22,1,1,1,Recreational,4,1.7999999999999998,3.34
+41,ME21B1119,ANSHUL RANA,Male,YouTube,90,Facebook,45,Twitter,30,Instagram,60,WhatsApp,60,2,Morning,Tap,Push,150,22-24,1,1,1,Recreational,3,0.8,2.34
+42,CS21B1119,VIVEK SINGH,Male,YouTube,60,Facebook,45,LinkedIn,30,Instagram,90,Twitter,60,3,Afternoon,Swipe,Push,50,18-22,1,1,0,Recreational,4,3.5999999999999996,3.88
+43,EC21B1120,SIMRAN KUMARI,Female,YouTube,60,Facebook,45,LinkedIn,30,Instagram,90,Twitter,60,3,Evening,Swipe,Push,50,22-24,1,1,0,Recreational,4,3.5999999999999996,3.88
+44,ME21B1120,ASHUTOSH GUPTA,Male,YouTube,60,Facebook,45,Instagram,30,Twitter,90,WhatsApp,60,4,Morning,Tap,Push,150,22-24,1,1,1,Recreational,5,1.6,3.98
+45,CS21B1120,SHIVANGI SINGH,Female,YouTube,60,Facebook,45,Coding Websites,30,Instagram,90,Twitter,60,2,Afternoon,Swipe,In-App,50,22-24,1,1,0,Recreational,3,2.4,2.8199999999999994
+46,EC21B1121,SACHIN KUMAR,Male,YouTube,45,Facebook,60,Twitter,30,SnapChat,90,LinkedIn,60,3,Evening,Swipe,Push,150,18-22,1,1,1,Recreational,4,1.2,3.1599999999999997
+47,ME21B1121,ARJUN PANDEY,Male,YouTube,60,Facebook,45,LinkedIn,30,Instagram,90,WhatsApp,60,2,Morning,Swipe,Push,150,18-22,1,1,0,Recreational,3,0.8,2.34
+48,CS21B1121,KRITIKA SHARMA,Female,YouTube,60,Facebook,45,Coding Websites,30,Instagram,90,Twitter,60,3,Afternoon,Swipe,Push,150,22-24,1,1,0,Recreational,4,1.2,3.1599999999999997
+49,EC21B1122,RUCHIKA,Female,YouTube,60,Facebook,45,Twitter,30,SnapChat,90,LinkedIn,60,3,Evening,Swipe,Push,100,22-24,1,1,1,Recreational,4,1.7999999999999998,3.34
+50,ME21B1122,SUBHAM SINGH,Male,YouTube,60,Facebook,45,LinkedIn,30,Instagram,90,Twitter,60,2,Morning,Tap,Push,100,18-22,1,1,0,Recreational,3,1.2,2.4599999999999995
+51,CS21B1122,AYUSH RAJ,Male,YouTube,60,Facebook,45,Twitter,30,Instagram,90,WhatsApp,60,4,Afternoon,Swipe,Push,100,22-24,1,1,1,Recreational,5,2.4,4.22
+52,EC21B1100,POOJA,Female,YouTube,45,Facebook,60,Twitter,30,SnapChat,90,LinkedIn,60,3,Evening,Swipe,Push,50,18-22,1,1,1,Recreational,4,3.5999999999999996,3.88
+53,ME21B1100,SAGAR GUPTA,Male,YouTube,60,Facebook,45,LinkedIn,30,Instagram,90,WhatsApp,60,2,Morning,Swipe,Push,100,18-22,1,1,0,Recreational,3,1.2,2.4599999999999995
+54,CS21B1100,VISHAL SINGH,Male,YouTube,60,Facebook,45,Coding Websites,30,SnapChat,90,Twitter,60,3,Afternoon,Swipe,In-App,50,22-24,1,1,0,Recreational,4,3.5999999999999996,3.88
+55,EC21B1124,ANJALI,Female,YouTube,60,Facebook,45,LinkedIn,30,Instagram,90,Twitter,60,4,Evening,Tap,Push,100,22-24,1,1,0,Recreational,5,2.4,4.22
+56,ME21B1124,ROHIT PANDEY,Male,YouTube,60,Facebook,45,LinkedIn,30,Instagram,90,Twitter,60,3,Morning,Swipe,Push,150,22-24,1,1,0,Recreational,4,1.2,3.1599999999999997
+57,CS21B1124,SANJEEV SINGH,Male,YouTube,45,Facebook,60,Twitter,30,Instagram,90,SnapChat,60,2,Afternoon,Swipe,Push,50,18-22,1,1,1,Recreational,3,2.4,2.8199999999999994
+58,CS21B1055,MANJAY KUMAR,Male,YouTube,90,Facebook,45,Instagram,60,Twitter,30,LinkedIn,60,2,Morning,Tap,Push,50,18-22,1,1,1,Recreational,3,2.4,2.8199999999999994
+59,CS21B2002,ANANYA RAI,Female,Twitter,60,Facebook,45,YouTube,90,Instagram,30,LinkedIn,60,3,Evening,Swipe,Push,50,22-24,1,1,1,Recreational,4,3.5999999999999996,3.88
+60,ME21B2054,ASHISH MISHRA,Male,YouTube,90,Netflix,45,Amazon Prime Video,30,Instagram,60,Twitter,60,4,Afternoon,Tap,Push,200,22-24,1,1,1,Recreational,5,1.2,3.86
+61,EC21B1085,AMAN AGRAWAL,Male,YouTube,45,Facebook,60,Twitter,90,Instagram,30,WhatsApp,60,2,Evening,Tap,In-App,150,18-22,1,1,1,Recreational,3,0.8,2.34
+62,EC21B1055,PRIYAM KUMAR,Male,YouTube,60,Facebook,45,Coding Websites,30,SnapChat,90,Instagram,60,2,Morning,Swipe,Push,100,18-22,1,1,0,Recreational,3,1.2,2.4599999999999995
+63,CS21B2040,UDIT GARG,Male,Coding Websites,60,Facebook,45,Quora,30,Instagram,90,LinkedIn,60,4,Afternoon,Swipe,Push,150,22-24,0,1,0,Education,0,1.6,0.48
+64,EC21B1099,ANMOL VARSHNEY,Female,Coding Websites,90,LinkedIn,45,Facebook,30,Instagram,60,Twitter,60,3,Evening,Swipe,Push,50,18-22,0,0,1,Education,0,3.5999999999999996,1.0799999999999998
+65,ME21B2048,ADITYA RAJ,Male,Netflix,90,YouTube,45,Amazon Prime Video,30,Instagram,60,Twitter,60,4,Morning,Tap,Push,150,22-24,1,1,1,Recreational,5,1.6,3.98
+66,CS21B2014,KARTIK CHAUDHARY,Male,YouTube,60,Coding Websites,45,Facebook,30,Twitter,90,LinkedIn,60,3,Afternoon,Swipe,Push,100,22-24,1,0,1,Recreational,4,1.7999999999999998,3.34
+67,CS21B2033,KASHYAP SHAH,Male,YouTube,60,Facebook,45,Twitter,90,LinkedIn,30,Instagram,60,3,Evening,Swipe,In-App,150,22-24,1,1,1,Recreational,4,1.2,3.1599999999999997
+68,EC21B2041,SIMRAN,Female,YouTube,60,Coding Websites,45,LinkedIn,30,Instagram,90,Facebook,60,3,Morning,Tap,Push,150,22-24,1,0,0,Education,0,1.2,0.36
+69,ME21B1095,ANURAG TYAGI,Male,LinkedIn,60,YouTube,45,Coding Websites,30,Instagram,90,Facebook,60,3,Afternoon,Swipe,Push,50,22-24,0,1,0,Education,0,3.5999999999999996,1.0799999999999998
+70,ME21B1080,PRASANNA RANADE,Male,YouTube,90,Netflix,45,Coding Websites,30,Instagram,60,Twitter,60,3,Evening,Swipe,Push,100,18-22,1,1,0,Recreational,4,1.7999999999999998,3.34
+71,EC21B2021,ADITYA KUMAR,Male,YouTube,60,Facebook,45,Coding Websites,30,Twitter,90,LinkedIn,60,3,Morning,Tap,Push,150,22-24,1,1,0,Recreational,4,1.2,3.1599999999999997
+72,CS21B2050,ANIKET PATHAK,Male,YouTube,45,Coding Websites,60,Facebook,30,Instagram,90,Twitter,60,3,Afternoon,Swipe,Push,50,22-24,1,0,1,Recreational,4,3.5999999999999996,3.88
+73,EC21B1104,PRIYANKA DEY,Female,Facebook,60,Twitter,45,YouTube,30,Instagram,90,LinkedIn,60,2,Evening,Tap,Push,150,18-22,1,1,1,Recreational,3,0.8,2.34
+74,ME21B2018,SHASHANK DANDU,Male,YouTube,60,Facebook,45,Twitter,30,Instagram,90,WhatsApp,60,3,Morning,Swipe,Push,150,22-24,1,1,1,Recreational,4,1.2,3.1599999999999997
+75,CS21B1106,SIDDHANT SINGH,Male,YouTube,90,Facebook,45,Coding Websites,30,Instagram,60,Twitter,60,4,Afternoon,Swipe,Push,100,22-24,1,1,0,Recreational,5,2.4,4.22
+76,CS21B1107,ABHISHEK KUMAR,Male,YouTube,45,Coding Websites,60,Facebook,30,SnapChat,90,LinkedIn,60,2,Evening,Tap,Push,200,22-24,1,0,1,Recreational,3,0.6,2.28
+77,EC21B1102,SUMIT KUMAR SINGH,Male,YouTube,60,LinkedIn,45,Twitter,30,Instagram,90,Facebook,60,3,Morning,Swipe,In-App,50,18-22,1,0,1,Recreational,4,3.5999999999999996,3.88
+78,ME21B1105,VIRENDRA PANDEY,Male,Coding Websites,60,YouTube,45,Facebook,30,Instagram,90,Twitter,60,4,Afternoon,Swipe,Push,150,18-22,0,1,1,Recreational,5,1.6,3.98
+79,EC21B1108,ANSHUL GUPTA,Male,YouTube,60,Facebook,45,Twitter,30,Instagram,90,LinkedIn,60,3,Evening,Swipe,Push,100,18-22,1,1,1,Recreational,4,1.7999999999999998,3.34
+80,ME21B1107,KOMAL SINGH,Female,YouTube,90,Facebook,45,Twitter,30,SnapChat,60,Instagram,60,4,Morning,Tap,Push,100,18-22,1,1,1,Recreational,5,2.4,4.22
+81,CS21B1108,HARSHIT SINGH,Male,YouTube,60,Facebook,45,Instagram,30,Twitter,90,LinkedIn,60,3,Afternoon,Swipe,In-App,50,22-24,1,1,1,Recreational,4,3.5999999999999996,3.88
+82,EC21B1109,ROHIT KUMAR,Male,Twitter,60,Facebook,45,YouTube,90,Instagram,30,LinkedIn,60,2,Evening,Tap,Push,150,22-24,1,1,1,Recreational,3,0.8,2.34
+83,ME21B1108,ABHISHEK JHA,Male,YouTube,90,Facebook,45,LinkedIn,30,Instagram,60,Twitter,60,3,Morning,Swipe,Push,150,22-24,1,1,0,Recreational,4,1.2,3.1599999999999997
+84,CS21B1109,VISHESH GUPTA,Male,YouTube,60,Facebook,45,Coding Websites,30,Instagram,90,Twitter,60,3,Afternoon,Swipe,Push,200,18-22,1,1,0,Recreational,4,0.8999999999999999,3.07
+85,CS21B1110,RAJ KUMAR,Male,YouTube,60,Facebook,45,Twitter,30,Instagram,90,LinkedIn,60,4,Evening,Tap,Push,50,18-22,1,1,1,Recreational,5,4.8,4.9399999999999995
+86,EC21B1110,RAJAT SHARMA,Male,YouTube,60,Facebook,45,Coding Websites,30,Instagram,90,LinkedIn,60,3,Morning,Swipe,Push,50,22-24,1,1,0,Recreational,4,3.5999999999999996,3.88
+87,ME21B1110,ABHISHEK KUMAR,Male,YouTube,60,LinkedIn,45,Facebook,30,Twitter,90,WhatsApp,60,2,Afternoon,Swipe,In-App,100,22-24,1,0,1,Recreational,3,1.2,2.4599999999999995
+88,EC21B1111,SAHIL SINGH,Male,YouTube,45,Facebook,60,Twitter,30,Instagram,90,LinkedIn,60,3,Evening,Swipe,Push,100,18-22,1,1,1,Recreational,4,1.7999999999999998,3.34
+89,CS21B1111,KRISHNA KUMAR,Male,YouTube,60,Facebook,45,LinkedIn,30,Instagram,90,Twitter,60,3,Morning,Tap,Push,100,22-24,1,1,0,Recreational,4,1.7999999999999998,3.34
+90,ME21B1111,SURAJ KUMAR,Male,YouTube,60,Coding Websites,45,Facebook,30,SnapChat,90,LinkedIn,60,4,Afternoon,Swipe,Push,100,22-24,1,0,1,Recreational,5,2.4,4.22
+91,EC21B1112,AKASH SINGH,Male,Facebook,60,Twitter,45,YouTube,30,Instagram,90,LinkedIn,60,3,Evening,Swipe,Push,150,22-24,1,1,1,Recreational,4,1.2,3.1599999999999997
+92,ME21B1112,SHUBHAM SINGH,Male,YouTube,90,Facebook,45,Coding Websites,30,Instagram,60,Twitter,60,2,Morning,Tap,Push,200,18-22,1,1,0,Recreational,3,0.6,2.28
+93,CS21B1112,ANURAG SINGH,Male,YouTube,45,Coding Websites,60,Facebook,30,Instagram,90,Twitter,60,3,Afternoon,Swipe,In-App,100,18-22,1,0,1,Recreational,4,1.7999999999999998,3.34
+94,CS21B1113,AKSHAY GUPTA,Male,YouTube,60,Facebook,45,Twitter,30,Instagram,90,LinkedIn,60,3,Evening,Swipe,Push,100,22-24,1,1,1,Recreational,4,1.7999999999999998,3.34
+95,EC21B1113,SAKSHI KUMARI,Female,YouTube,60,Facebook,45,Twitter,30,Instagram,90,LinkedIn,60,4,Morning,Tap,Push,150,18-22,1,1,1,Recreational,5,1.6,3.98
+96,ME21B1113,VAIBHAV KUMAR,Male,YouTube,60,Coding Websites,45,LinkedIn,30,SnapChat,90,Facebook,60,3,Afternoon,Swipe,Push,100,18-22,1,0,0,Education,0,1.7999999999999998,0.5399999999999999
+97,EC21B1114,SHIVANI,Female,YouTube,60,Facebook,45,LinkedIn,30,Instagram,90,Twitter,60,2,Evening,Tap,Push,150,22-24,1,1,0,Recreational,3,0.8,2.34
+98,CS21B1114,PRADEEP SINGH,Male,YouTube,60,Facebook,45,Coding Websites,30,Instagram,90,Twitter,60,3,Morning,Swipe,Push,150,22-24,1,1,0,Recreational,4,1.2,3.1599999999999997
+99,ME21B1114,SURENDRA KUMAR,Male,YouTube,60,Facebook,45,Twitter,30,Instagram,90,WhatsApp,60,4,Afternoon,Swipe,Push,150,22-24,1,1,1,Recreational,5,1.6,3.98
+100,EC21B1115,GAUTAM SHARMA,Male,YouTube,45,Facebook,60,Twitter,30,Instagram,90,LinkedIn,60,3,Evening,Swipe,Push,150,18-22,1,1,1,Recreational,4,1.2,3.1599999999999997
